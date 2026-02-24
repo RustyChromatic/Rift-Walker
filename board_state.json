@@ -192,7 +192,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
           "color": "orange",
-          "uses": 3
+          "uses": 2
         },
         {
           "id": "691601a77fde3bc637f6e69f",
@@ -210,7 +210,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -467,26 +467,6 @@
       "url": "https://trello.com/c/6dqCZrDz/4-gamemode-hardcore-rework",
       "closed": false
     },
-    "69160586f25e1f4e5986a34d": {
-      "name": "Economy Update",
-      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
-      "idList": "691601ca920aac1c0f6af4df",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69e",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
-          "color": "orange",
-          "uses": 3
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
-      "closed": false
-    },
     "691b51c25a654aec5c1adfe6": {
       "name": "Map Difficulty Reward Scaling",
       "desc": "Map rewards will scale with map difficulty.",
@@ -519,7 +499,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69e",
           "color": "orange",
-          "uses": 3
+          "uses": 2
         }
       ],
       "idAttachmentCover": null,
@@ -767,6 +747,26 @@
       "url": "https://trello.com/c/A35W9jK4/20-new-inventory-ui",
       "closed": false
     },
+    "69160586f25e1f4e5986a34d": {
+      "name": "Economy Update",
+      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
+      "idList": "691601cc10d7fedc91f45480",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 10
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
+      "closed": false
+    },
     "691606a55d3f42597da4be4e": {
       "name": "Story mode",
       "desc": "Information coming soon…",
@@ -779,7 +779,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -799,7 +799,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -819,7 +819,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -839,7 +839,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -859,7 +859,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -879,7 +879,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -899,7 +899,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -919,7 +919,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -1174,5 +1174,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-02-24T13:39:23.915Z"
+  "lastCheck": "2026-02-24T14:38:26.044Z"
 }
