@@ -748,8 +748,80 @@
           "uses": 7
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "69fa53664a1aa32efe73ccb8",
+      "attachments": [
+        {
+          "id": "69fa53664a1aa32efe73ccb8",
+          "bytes": 652857,
+          "date": "2026-05-05T20:30:30.634Z",
+          "edgeColor": "#040408",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "HardCoreUpdateTeaser.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce2b/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce2b",
+              "id": "69fa53674a1aa32efe73ce2b",
+              "scaled": false,
+              "bytes": 862,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce2c/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce2c",
+              "id": "69fa53674a1aa32efe73ce2c",
+              "scaled": false,
+              "bytes": 5086,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce2d/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce2d",
+              "id": "69fa53674a1aa32efe73ce2d",
+              "scaled": true,
+              "bytes": 2512,
+              "height": 84,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce2e/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce2e",
+              "id": "69fa53674a1aa32efe73ce2e",
+              "scaled": true,
+              "bytes": 6434,
+              "height": 169,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce2f/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce2f",
+              "id": "69fa53674a1aa32efe73ce2f",
+              "scaled": true,
+              "bytes": 15610,
+              "height": 338,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/previews/69fa53674a1aa32efe73ce30/download/HardCoreUpdateTeaser_(1).webp",
+              "_id": "69fa53674a1aa32efe73ce30",
+              "id": "69fa53674a1aa32efe73ce30",
+              "scaled": true,
+              "bytes": 34066,
+              "height": 675,
+              "width": 1200
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6916054fd256ad1be8d3a2de/attachments/69fa53664a1aa32efe73ccb8/download/HardCoreUpdateTeaser_(1).png",
+          "pos": 140737488355328,
+          "fileName": "HardCoreUpdateTeaser_(1).png"
+        }
+      ],
       "url": "https://trello.com/c/6dqCZrDz/4-gamemode-hardcore-rework",
       "closed": false
     },
@@ -1303,5 +1375,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-05-05T19:54:02.980Z"
+  "lastCheck": "2026-05-05T21:01:15.668Z"
 }
