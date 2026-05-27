@@ -203,7 +203,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 2
+          "uses": 3
         },
         {
           "id": "691601a77fde3bc637f6e6a0",
@@ -221,7 +221,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -241,7 +241,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": "691609e08622ebe2449cd2c4",
@@ -342,7 +342,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -362,7 +362,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": "69332c9ffc9ac5c5944e7792",
@@ -463,7 +463,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -483,7 +483,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": "69161910305f139437f54fa5",
@@ -584,7 +584,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
           "color": "red",
-          "uses": 2
+          "uses": 3
         }
       ],
       "idAttachmentCover": null,
@@ -604,7 +604,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
@@ -624,7 +624,7 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": "691b37d0fa7dff418b9ceb29",
@@ -725,12 +725,95 @@
           "name": "Shipped",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
           "color": "blue",
-          "uses": 9
+          "uses": 10
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/ztQA44xp/24-tower-saboteur",
+      "closed": false
+    },
+    "6916065a2ed36b06a757a6c4": {
+      "name": "Tower: Slime Trooper",
+      "desc": "",
+      "idList": "691601cc10d7fedc91f45480",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a1",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a1",
+          "color": "blue",
+          "uses": 10
+        }
+      ],
+      "idAttachmentCover": "69e949e98184740fa4a47a4c",
+      "attachments": [
+        {
+          "id": "69e949e98184740fa4a47a4c",
+          "bytes": 268106,
+          "date": "2026-04-22T22:21:29.913Z",
+          "edgeColor": "#626969",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a64/download/image.webp",
+              "_id": "69e949ea8184740fa4a47a64",
+              "id": "69e949ea8184740fa4a47a64",
+              "scaled": false,
+              "bytes": 1080,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a65/download/image.webp",
+              "_id": "69e949ea8184740fa4a47a65",
+              "id": "69e949ea8184740fa4a47a65",
+              "scaled": false,
+              "bytes": 4446,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a66/download/image.webp",
+              "_id": "69e949ea8184740fa4a47a66",
+              "id": "69e949ea8184740fa4a47a66",
+              "scaled": true,
+              "bytes": 4646,
+              "height": 154,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a67/download/image.webp",
+              "_id": "69e949ea8184740fa4a47a67",
+              "id": "69e949ea8184740fa4a47a67",
+              "scaled": true,
+              "bytes": 10674,
+              "height": 308,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a68/download/image.webp",
+              "_id": "69e949ea8184740fa4a47a68",
+              "id": "69e949ea8184740fa4a47a68",
+              "scaled": true,
+              "bytes": 21656,
+              "height": 553,
+              "width": 539
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/download/image.png",
+          "pos": 140737488371712,
+          "fileName": "image.png"
+        }
+      ],
+      "url": "https://trello.com/c/k47B7pwW/16-tower-slime-trooper",
       "closed": false
     },
     "6916054fd256ad1be8d3a2de": {
@@ -885,89 +968,6 @@
       "url": "https://trello.com/c/qhodlIWP/14-new-shop-ui",
       "closed": false
     },
-    "6916065a2ed36b06a757a6c4": {
-      "name": "Tower: Slime Trooper",
-      "desc": "",
-      "idList": "691601cc10d7fedc91f45480",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": "69e949e98184740fa4a47a4c",
-      "attachments": [
-        {
-          "id": "69e949e98184740fa4a47a4c",
-          "bytes": 268106,
-          "date": "2026-04-22T22:21:29.913Z",
-          "edgeColor": "#626969",
-          "idMember": "68769bffc3c94a99e1fefc40",
-          "isMalicious": false,
-          "isUpload": true,
-          "mimeType": "image/png",
-          "name": "image.png",
-          "previews": [
-            {
-              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a64/download/image.webp",
-              "_id": "69e949ea8184740fa4a47a64",
-              "id": "69e949ea8184740fa4a47a64",
-              "scaled": false,
-              "bytes": 1080,
-              "height": 50,
-              "width": 70
-            },
-            {
-              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a65/download/image.webp",
-              "_id": "69e949ea8184740fa4a47a65",
-              "id": "69e949ea8184740fa4a47a65",
-              "scaled": false,
-              "bytes": 4446,
-              "height": 150,
-              "width": 250
-            },
-            {
-              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a66/download/image.webp",
-              "_id": "69e949ea8184740fa4a47a66",
-              "id": "69e949ea8184740fa4a47a66",
-              "scaled": true,
-              "bytes": 4646,
-              "height": 154,
-              "width": 150
-            },
-            {
-              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a67/download/image.webp",
-              "_id": "69e949ea8184740fa4a47a67",
-              "id": "69e949ea8184740fa4a47a67",
-              "scaled": true,
-              "bytes": 10674,
-              "height": 308,
-              "width": 300
-            },
-            {
-              "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/previews/69e949ea8184740fa4a47a68/download/image.webp",
-              "_id": "69e949ea8184740fa4a47a68",
-              "id": "69e949ea8184740fa4a47a68",
-              "scaled": true,
-              "bytes": 21656,
-              "height": 553,
-              "width": 539
-            }
-          ],
-          "sourceView": {},
-          "url": "https://trello.com/1/cards/6916065a2ed36b06a757a6c4/attachments/69e949e98184740fa4a47a4c/download/image.png",
-          "pos": 140737488371712,
-          "fileName": "image.png"
-        }
-      ],
-      "url": "https://trello.com/c/k47B7pwW/16-tower-slime-trooper",
-      "closed": false
-    },
     "691606a55d3f42597da4be4e": {
       "name": "Story mode",
       "desc": "Information coming soon…",
@@ -994,58 +994,18 @@
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
         {
-          "id": "691601a77fde3bc637f6e6a0",
+          "id": "691601a77fde3bc637f6e69c",
           "idBoard": "691601a77fde3bc637f6e61f",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 8
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/cI4hPvuh/25-tower",
-      "closed": false
-    },
-    "69160586f25e1f4e5986a34d": {
-      "name": "Economy Update",
-      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
-      "idList": "691601cc10d7fedc91f45480",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
-      "closed": false
-    },
-    "691605c37fd252daaf6d055a": {
-      "name": "Gamemode: Golden mode",
-      "desc": "Information coming soon…",
-      "idList": "691601cc10d7fedc91f45480",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e6a0",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
-          "color": "purple",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/JdJTWw6V/11-gamemode-golden-mode",
       "closed": false
     },
     "691605c839f007459109e705": {
@@ -1086,6 +1046,86 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/dgRS26pk/17-tower",
+      "closed": false
+    },
+    "69160586f25e1f4e5986a34d": {
+      "name": "Economy Update",
+      "desc": "**Chroma Currency**\nChroma is a new currency centered around cosmetic progression. It will be used for crafting skins, purchasing items in the daily shop, and interacting with future cosmetic features.\n\n**Skin Quantities & Crafting**\nSkins will now have quantity counts, letting players collect and stack duplicates. These duplicates can be used as materials in the crafting system to create new skins, giving every skin drop additional value and expanding long-term cosmetic progression.",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/dAFgQhhq/8-economy-update",
+      "closed": false
+    },
+    "6a1727abbdf4900f87809c4c": {
+      "name": "Tower: ???",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/tHuIP1Ei/27-tower",
+      "closed": false
+    },
+    "6a1727aedbd230f2536af9ca": {
+      "name": "Tower: ???",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/KznYN3Zj/28-tower",
+      "closed": false
+    },
+    "691605c37fd252daaf6d055a": {
+      "name": "Gamemode: Golden mode",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69f",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69f",
+          "color": "red",
+          "uses": 3
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/JdJTWw6V/11-gamemode-golden-mode",
       "closed": false
     },
     "6916059ecca8d6acf796f6b9": {
@@ -1375,5 +1415,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-05-27T14:00:54.539Z"
+  "lastCheck": "2026-05-27T17:28:14.866Z"
 }
