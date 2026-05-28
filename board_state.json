@@ -212,7 +212,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         },
         {
           "id": "691601a77fde3bc637f6e6a1",
@@ -989,7 +989,7 @@
       "closed": false
     },
     "69e930177d99e9ace2c816f4": {
-      "name": "Tower: ???",
+      "name": "Tower: Operator",
       "desc": "Information coming soon…",
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
@@ -1005,7 +1005,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/cI4hPvuh/25-tower",
+      "url": "https://trello.com/c/cI4hPvuh/25-tower-operator",
       "closed": false
     },
     "691605c839f007459109e705": {
@@ -1020,7 +1020,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1029,7 +1029,7 @@
       "closed": false
     },
     "6916065d59d26067068bfecd": {
-      "name": "Tower: ???",
+      "name": "Tower: Boomerang",
       "desc": "Information coming soon…",
       "idList": "691601ce8394932359241a9b",
       "labels": [
@@ -1040,12 +1040,12 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/dgRS26pk/17-tower",
+      "url": "https://trello.com/c/dgRS26pk/17-tower-boomerang",
       "closed": false
     },
     "69160586f25e1f4e5986a34d": {
@@ -1060,7 +1060,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1069,7 +1069,7 @@
       "closed": false
     },
     "6a1727abbdf4900f87809c4c": {
-      "name": "Tower: ???",
+      "name": "Tower: Pulse Trooper",
       "desc": "Information coming soon…",
       "idList": "691601ce8394932359241a9b",
       "labels": [
@@ -1080,16 +1080,16 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/tHuIP1Ei/27-tower",
+      "url": "https://trello.com/c/tHuIP1Ei/27-tower-pulse-trooper",
       "closed": false
     },
     "6a1727aedbd230f2536af9ca": {
-      "name": "Tower: ???",
+      "name": "Tower: Enforcer",
       "desc": "Information coming soon…",
       "idList": "691601ce8394932359241a9b",
       "labels": [
@@ -1100,12 +1100,32 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/KznYN3Zj/28-tower",
+      "url": "https://trello.com/c/KznYN3Zj/28-tower-enforcer",
+      "closed": false
+    },
+    "6a18c3826b640b906fe7035d": {
+      "name": "Tower: Kingpin",
+      "desc": "Information coming soon…",
+      "idList": "691601ce8394932359241a9b",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e6a0",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
+          "color": "purple",
+          "uses": 9
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/mo5pW46T/29-tower-kingpin",
       "closed": false
     },
     "691605c37fd252daaf6d055a": {
@@ -1140,7 +1160,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1160,7 +1180,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e6a0",
           "color": "purple",
-          "uses": 8
+          "uses": 9
         }
       ],
       "idAttachmentCover": null,
@@ -1415,5 +1435,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-05-28T21:17:58.425Z"
+  "lastCheck": "2026-05-28T22:48:06.942Z"
 }
