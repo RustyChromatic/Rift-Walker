@@ -1003,8 +1003,71 @@
           "uses": 7
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6a19c35398eceb4313cee8ba",
+      "attachments": [
+        {
+          "id": "6a19c35398eceb4313cee8ba",
+          "bytes": 152715,
+          "date": "2026-05-29T16:48:19.414Z",
+          "edgeColor": "#acacac",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Operator.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/previews/6a19c35398eceb4313cee8c8/download/Operator.webp",
+              "_id": "6a19c35398eceb4313cee8c8",
+              "id": "6a19c35398eceb4313cee8c8",
+              "scaled": false,
+              "bytes": 874,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/previews/6a19c35398eceb4313cee8c9/download/Operator.webp",
+              "_id": "6a19c35398eceb4313cee8c9",
+              "id": "6a19c35398eceb4313cee8c9",
+              "scaled": false,
+              "bytes": 4246,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/previews/6a19c35398eceb4313cee8ca/download/Operator.webp",
+              "_id": "6a19c35398eceb4313cee8ca",
+              "id": "6a19c35398eceb4313cee8ca",
+              "scaled": true,
+              "bytes": 5514,
+              "height": 181,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/previews/6a19c35398eceb4313cee8cb/download/Operator.webp",
+              "_id": "6a19c35398eceb4313cee8cb",
+              "id": "6a19c35398eceb4313cee8cb",
+              "scaled": true,
+              "bytes": 14266,
+              "height": 363,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/previews/6a19c35398eceb4313cee8cc/download/Operator.webp",
+              "_id": "6a19c35398eceb4313cee8cc",
+              "id": "6a19c35398eceb4313cee8cc",
+              "scaled": true,
+              "bytes": 22614,
+              "height": 497,
+              "width": 411
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/69e930177d99e9ace2c816f4/attachments/6a19c35398eceb4313cee8ba/download/Operator.png",
+          "pos": 140737488355328,
+          "fileName": "Operator.png"
+        }
+      ],
       "url": "https://trello.com/c/cI4hPvuh/25-tower-operator",
       "closed": false
     },
@@ -1103,8 +1166,71 @@
           "uses": 9
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6a19c35f476f9669aecdd092",
+      "attachments": [
+        {
+          "id": "6a19c35f476f9669aecdd092",
+          "bytes": 92995,
+          "date": "2026-05-29T16:48:31.108Z",
+          "edgeColor": "#acacac",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Enforcer.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/previews/6a19c35f476f9669aecdd2da/download/Enforcer.webp",
+              "_id": "6a19c35f476f9669aecdd2da",
+              "id": "6a19c35f476f9669aecdd2da",
+              "scaled": false,
+              "bytes": 748,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/previews/6a19c35f476f9669aecdd2db/download/Enforcer.webp",
+              "_id": "6a19c35f476f9669aecdd2db",
+              "id": "6a19c35f476f9669aecdd2db",
+              "scaled": false,
+              "bytes": 3556,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/previews/6a19c35f476f9669aecdd2dc/download/Enforcer.webp",
+              "_id": "6a19c35f476f9669aecdd2dc",
+              "id": "6a19c35f476f9669aecdd2dc",
+              "scaled": true,
+              "bytes": 4760,
+              "height": 185,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/previews/6a19c35f476f9669aecdd2dd/download/Enforcer.webp",
+              "_id": "6a19c35f476f9669aecdd2dd",
+              "id": "6a19c35f476f9669aecdd2dd",
+              "scaled": true,
+              "bytes": 11358,
+              "height": 371,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/previews/6a19c35f476f9669aecdd2de/download/Enforcer.webp",
+              "_id": "6a19c35f476f9669aecdd2de",
+              "id": "6a19c35f476f9669aecdd2de",
+              "scaled": true,
+              "bytes": 13898,
+              "height": 434,
+              "width": 351
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a1727aedbd230f2536af9ca/attachments/6a19c35f476f9669aecdd092/download/Enforcer.png",
+          "pos": 140737488355328,
+          "fileName": "Enforcer.png"
+        }
+      ],
       "url": "https://trello.com/c/KznYN3Zj/28-tower-enforcer",
       "closed": false
     },
@@ -1123,8 +1249,71 @@
           "uses": 9
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6a19c369d913aa6096d27e8c",
+      "attachments": [
+        {
+          "id": "6a19c369d913aa6096d27e8c",
+          "bytes": 136115,
+          "date": "2026-05-29T16:48:41.270Z",
+          "edgeColor": "#818080",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Kingpin.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e98/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e98",
+              "id": "6a19c369d913aa6096d27e98",
+              "scaled": false,
+              "bytes": 1046,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e99/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e99",
+              "id": "6a19c369d913aa6096d27e99",
+              "scaled": false,
+              "bytes": 5386,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9a/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9a",
+              "id": "6a19c369d913aa6096d27e9a",
+              "scaled": true,
+              "bytes": 6646,
+              "height": 173,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9b/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9b",
+              "id": "6a19c369d913aa6096d27e9b",
+              "scaled": true,
+              "bytes": 16680,
+              "height": 346,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/previews/6a19c369d913aa6096d27e9c/download/Kingpin.webp",
+              "_id": "6a19c369d913aa6096d27e9c",
+              "id": "6a19c369d913aa6096d27e9c",
+              "scaled": true,
+              "bytes": 17626,
+              "height": 360,
+              "width": 312
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6a18c3826b640b906fe7035d/attachments/6a19c369d913aa6096d27e8c/download/Kingpin.png",
+          "pos": 140737488355328,
+          "fileName": "Kingpin.png"
+        }
+      ],
       "url": "https://trello.com/c/mo5pW46T/29-tower-kingpin",
       "closed": false
     },
@@ -1435,5 +1624,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-05-29T14:27:30.022Z"
+  "lastCheck": "2026-05-29T17:50:55.157Z"
 }
