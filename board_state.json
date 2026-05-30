@@ -92,7 +92,7 @@
       "closed": false
     },
     "6916045c9a4478d0eb323016": {
-      "name": "⚠️ Disclaimer: Everything is subject to change.",
+      "name": "��️ Disclaimer: Everything is subject to change.",
       "desc": "",
       "idList": "691601be9e56aab1ec6d673b",
       "labels": [],
@@ -930,7 +930,7 @@
     },
     "69e93027cb8de45b8460e45a": {
       "name": "Tower: Juggernaut",
-      "desc": "You guys already know…",
+      "desc": "Evolved from Minigunner. A massive heavy-weapons tower built for overwhelming firepower and frontline support.",
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
         {
@@ -990,7 +990,7 @@
     },
     "69e930177d99e9ace2c816f4": {
       "name": "Tower: Operator",
-      "desc": "Information coming soon…",
+      "desc": "Evolved from Scout. A coordinated early-game tower that grows stronger when deployed in squads.",
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
         {
@@ -1153,7 +1153,7 @@
     },
     "6a1727aedbd230f2536af9ca": {
       "name": "Tower: Enforcer",
-      "desc": "Information coming soon…",
+      "desc": "Evolved from Shotgunner. A tactical shotgun tower that controls crowds and calls in backup when things get messy.",
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
@@ -1236,7 +1236,7 @@
     },
     "6a18c3826b640b906fe7035d": {
       "name": "Tower: Kingpin",
-      "desc": "Information coming soon…",
+      "desc": "Evolved from Crook Boss. A powerful crime boss that builds an empire through cash, contracts, and hired muscle.",
       "idList": "691601ce8394932359241a9b",
       "labels": [
         {
@@ -1379,7 +1379,7 @@
     },
     "6a1a07c3ad33e160d14c7908": {
       "name": "Tower: Mecha Base",
-      "desc": "We haven’t forgotten, don’t worry.",
+      "desc": "Evolved from Military Base. An advanced base that deploys mechs and brings high-impact battlefield abilities.",
       "idList": "691601d194e0d9a27a3a94e5",
       "labels": [
         {
@@ -1644,5 +1644,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-05-30T18:54:15.836Z"
+  "lastCheck": "2026-05-30T20:07:55.395Z"
 }
