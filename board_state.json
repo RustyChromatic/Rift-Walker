@@ -92,7 +92,7 @@
       "closed": false
     },
     "6916045c9a4478d0eb323016": {
-      "name": "��️ Disclaimer: Everything is subject to change.",
+      "name": "⚠️ Disclaimer: Everything is subject to change.",
       "desc": "",
       "idList": "691601be9e56aab1ec6d673b",
       "labels": [],
@@ -1106,8 +1106,71 @@
           "uses": 10
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "6a1f08120316cf72dd271817",
+      "attachments": [
+        {
+          "id": "6a1f08120316cf72dd271817",
+          "bytes": 237261,
+          "date": "2026-06-02T16:42:58.188Z",
+          "edgeColor": "#4a3130",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Boomerang.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/previews/6a1f08130316cf72dd271825/download/Boomerang.webp",
+              "_id": "6a1f08130316cf72dd271825",
+              "id": "6a1f08130316cf72dd271825",
+              "scaled": false,
+              "bytes": 1348,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/previews/6a1f08130316cf72dd271826/download/Boomerang.webp",
+              "_id": "6a1f08130316cf72dd271826",
+              "id": "6a1f08130316cf72dd271826",
+              "scaled": false,
+              "bytes": 6370,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/previews/6a1f08130316cf72dd271827/download/Boomerang.webp",
+              "_id": "6a1f08130316cf72dd271827",
+              "id": "6a1f08130316cf72dd271827",
+              "scaled": true,
+              "bytes": 5564,
+              "height": 141,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/previews/6a1f08130316cf72dd271828/download/Boomerang.webp",
+              "_id": "6a1f08130316cf72dd271828",
+              "id": "6a1f08130316cf72dd271828",
+              "scaled": true,
+              "bytes": 14860,
+              "height": 281,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/previews/6a1f08130316cf72dd271829/download/Boomerang.webp",
+              "_id": "6a1f08130316cf72dd271829",
+              "id": "6a1f08130316cf72dd271829",
+              "scaled": true,
+              "bytes": 26220,
+              "height": 449,
+              "width": 479
+            }
+          ],
+          "sourceView": {},
+          "url": "https://trello.com/1/cards/6916065d59d26067068bfecd/attachments/6a1f08120316cf72dd271817/download/Boomerang.png",
+          "pos": 140737488355328,
+          "fileName": "Boomerang.png"
+        }
+      ],
       "url": "https://trello.com/c/dgRS26pk/17-tower-boomerang",
       "closed": false
     },
@@ -1644,5 +1707,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-06-02T15:11:08.453Z"
+  "lastCheck": "2026-06-02T18:54:58.149Z"
 }
