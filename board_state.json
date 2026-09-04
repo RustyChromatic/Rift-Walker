@@ -594,7 +594,7 @@
     },
     "69309e61e4abb1206032c146": {
       "name": "New Lobby",
-      "desc": "Information coming soon��",
+      "desc": "Information coming soon…",
       "idList": "691601cc10d7fedc91f45480",
       "labels": [
         {
@@ -1944,5 +1944,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-09-04T16:58:40.522Z"
+  "lastCheck": "2026-09-04T19:24:25.886Z"
 }
