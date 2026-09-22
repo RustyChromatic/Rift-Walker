@@ -9,6 +9,7 @@
       "attachments": [
         {
           "id": "691602c3897d3347d18a1481",
+          "aiSummary": null,
           "bytes": 1485961,
           "date": "2025-11-13T16:09:39.594Z",
           "edgeColor": "#d2f6f9",
@@ -100,6 +101,7 @@
       "attachments": [
         {
           "id": "691604b731835bd075a6b712",
+          "aiSummary": null,
           "bytes": 451507,
           "date": "2025-11-13T16:17:59.322Z",
           "edgeColor": null,
@@ -248,6 +250,7 @@
       "attachments": [
         {
           "id": "691609e08622ebe2449cd2c4",
+          "aiSummary": null,
           "bytes": 3265417,
           "date": "2025-11-13T16:40:00.100Z",
           "edgeColor": "#0c0415",
@@ -369,6 +372,7 @@
       "attachments": [
         {
           "id": "69332c9ffc9ac5c5944e7792",
+          "aiSummary": null,
           "bytes": 2801349,
           "date": "2025-12-05T19:03:59.123Z",
           "edgeColor": "#130f10",
@@ -490,6 +494,7 @@
       "attachments": [
         {
           "id": "69161910305f139437f54fa5",
+          "aiSummary": null,
           "bytes": 1212515,
           "date": "2025-11-13T17:44:48.765Z",
           "edgeColor": "#242424",
@@ -631,6 +636,7 @@
       "attachments": [
         {
           "id": "691b37d0fa7dff418b9ceb29",
+          "aiSummary": null,
           "bytes": 1929792,
           "date": "2025-11-17T14:57:20.030Z",
           "edgeColor": "#7449a8",
@@ -752,6 +758,7 @@
       "attachments": [
         {
           "id": "69e949e98184740fa4a47a4c",
+          "aiSummary": null,
           "bytes": 268106,
           "date": "2026-04-22T22:21:29.913Z",
           "edgeColor": "#626969",
@@ -835,6 +842,7 @@
       "attachments": [
         {
           "id": "69fa53664a1aa32efe73ccb8",
+          "aiSummary": null,
           "bytes": 652857,
           "date": "2026-05-05T20:30:30.634Z",
           "edgeColor": "#040408",
@@ -967,6 +975,7 @@
       "attachments": [
         {
           "id": "6a19c35398eceb4313cee8ba",
+          "aiSummary": null,
           "bytes": 152715,
           "date": "2026-05-29T16:48:19.414Z",
           "edgeColor": "#acacac",
@@ -1050,6 +1059,7 @@
       "attachments": [
         {
           "id": "6a19c369d913aa6096d27e8c",
+          "aiSummary": null,
           "bytes": 136115,
           "date": "2026-05-29T16:48:41.270Z",
           "edgeColor": "#818080",
@@ -1133,6 +1143,7 @@
       "attachments": [
         {
           "id": "6a1f08120316cf72dd271817",
+          "aiSummary": null,
           "bytes": 237261,
           "date": "2026-06-02T16:42:58.188Z",
           "edgeColor": "#4a3130",
@@ -1236,6 +1247,7 @@
       "attachments": [
         {
           "id": "6a19c35f476f9669aecdd092",
+          "aiSummary": null,
           "bytes": 92995,
           "date": "2026-05-29T16:48:31.108Z",
           "edgeColor": "#acacac",
@@ -1399,6 +1411,7 @@
       "attachments": [
         {
           "id": "6a74d316b11146f0ee5bf638",
+          "aiSummary": null,
           "bytes": 73934,
           "date": "2026-08-06T18:31:50.063Z",
           "edgeColor": "#848484",
@@ -1542,6 +1555,7 @@
       "attachments": [
         {
           "id": "6a7f3604f9d1516b443bf9a9",
+          "aiSummary": null,
           "bytes": 124614,
           "date": "2026-08-14T15:36:36.475Z",
           "edgeColor": "#2c2f33",
@@ -1944,5 +1958,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-09-22T12:14:18.904Z"
+  "lastCheck": "2026-09-22T17:01:45.981Z"
 }
