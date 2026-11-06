@@ -1476,26 +1476,6 @@
       "url": "https://trello.com/c/tpUPFaOx/10-event-halloween-2026",
       "closed": false
     },
-    "69160599332bae26697c51bf": {
-      "name": "Event: Winter 2026",
-      "desc": "Information coming soon…",
-      "idList": "691601d194e0d9a27a3a94e5",
-      "labels": [
-        {
-          "id": "691601a77fde3bc637f6e69c",
-          "idBoard": "691601a77fde3bc637f6e61f",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
-          "color": "green",
-          "uses": 4
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/g8AVlQPF/9-event-winter-2026",
-      "closed": false
-    },
     "6a6083bf557ea1a71723114a": {
       "name": "Tower: Time Dilator",
       "desc": "A tower that acts as a ranged AOE buff/debuff tower to adjust the speed of any object inside its field, whether its an enemy or a friendly tower.",
@@ -1662,6 +1642,26 @@
         }
       ],
       "url": "https://trello.com/c/8EGpJVaN/30-tower-mecha-base",
+      "closed": false
+    },
+    "69160599332bae26697c51bf": {
+      "name": "Event: Winter 2026",
+      "desc": "Information coming soon…",
+      "idList": "691601d194e0d9a27a3a94e5",
+      "labels": [
+        {
+          "id": "691601a77fde3bc637f6e69c",
+          "idBoard": "691601a77fde3bc637f6e61f",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/691601a77fde3bc637f6e69c",
+          "color": "green",
+          "uses": 4
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/g8AVlQPF/9-event-winter-2026",
       "closed": false
     },
     "69160586f25e1f4e5986a34d": {
@@ -2022,5 +2022,5 @@
     "desc": "",
     "url": "https://trello.com/b/DrxwjzIH/tower-defense-simulator-public-roadmap"
   },
-  "lastCheck": "2026-11-06T11:35:32.978Z"
+  "lastCheck": "2026-11-06T18:26:00.656Z"
 }
